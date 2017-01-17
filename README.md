@@ -1,8 +1,8 @@
 # Limesharp test
 
-Fork this repo, commit changes after each task and send us the link to your repo (don't do a PR, just send us the link).
+Fork this repo, commit changes after each task and send us the link to your repo (don't do a Pull Request, just send us the link).
 We will get back to you shortly. 
-Languages accepted: js, php, python, ruby. 
+Languages accepted: Javascript or PHP. 
 
 ### Task 1: 
 Make this work (repeat 3 times the contents of an array):
