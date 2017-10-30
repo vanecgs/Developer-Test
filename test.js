@@ -1,4 +1,3 @@
-//This function will take an array and build a string
 function repeat(numbers) {
     var repeatTimes = 3,
         repeatResult = '[';
@@ -18,4 +17,9 @@ function repeat(numbers) {
     }
 
     return false;
+}
+
+function reformat(phrase) {
+    phrase = phrase.replace( /[aeiou]/g, '' ).toLowerCase();
+    return phrase.charAt(0).toUpperCase() + phrase.slice(1);
 }
